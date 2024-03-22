@@ -5,8 +5,6 @@
 
 - 🌱 Aprimoramentos pessoais atuais: **DBT, Airflow e AWS**
 
-- 👨‍💻 Você pode encontrar todos os meus projetos desenvolvidos em: [https://github.com/meneizs](https://github.com/meneizs)
-
 - 📫 Se quiser me contatar: **https://www.linkedin.com/in/nelson--neto/**
 
 <h3 align="left">Connect with me:</h3>
