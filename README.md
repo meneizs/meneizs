@@ -5,9 +5,10 @@
 
 - 🌱 Aprimoramentos pessoais atuais: **DBT, Airflow e AWS**
 
+<h3 align="left">Connect with me:</h3>
+
 - 📫 Se quiser me contatar: **https://www.linkedin.com/in/nelson--neto/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
