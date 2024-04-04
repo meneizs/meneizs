@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Nelson Neto</h1>
 <h3 align="center">Sou um Analista e Engenheiro de Dados</h3>
 
-- 🔭 Atualmente desenvolvendo o projeto pessoal [Astro Cosmos ELT](https://github.com/meneizs/astro_cosmos_elt)
+- 🔭 Atualmente desenvolvendo o projeto pessoal [Notion to Discord](https://github.com/meneizs/notion-to-discord)
 
 - 🌱 Aprimoramentos pessoais atuais: **DBT, Airflow e AWS**
 
