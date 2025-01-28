@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Nelson Neto</h1>
-<h3 align="center">Sou um Analista e Engenheiro de Dados</h3>
+<h3 align="center">Profissional em engenharia de dados</h3>
 
 - 🔭 Atualmente desenvolvendo o projeto pessoal [Notion to Discord](https://github.com/meneizs/notion-to-discord)
 
